@@ -1,0 +1,5 @@
+com\mycompany\proxy\ChurrosCompany.class
+com\mycompany\proxy\Main.class
+com\mycompany\proxy\RealChurrosFactory.class
+com\mycompany\proxy\Factory.class
+com\mycompany\proxy\ProxyChurrosFactory.class
